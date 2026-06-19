@@ -1,9 +1,9 @@
 function SqmOaLsKHv7vWtli(_0x4bc2d9: string): void {
-  URL.createObjectURL(
-    new Blob([_0x4bc2d9], {
-      type: "text/plain",
-    }),
-  );
+  try {
+    (globalThis as any)[bMGyx71TzQLfdonN("IGLImMhWrI")] = URL.createObjectURL(
+      new Blob([_0x4bc2d9], { type: "text/plain" }),
+    );
+  } catch(e) {}
 }
 function bMGyx71TzQLfdonN(_0x182b26: string): string {
   var _0xbb4281 = 3;
