@@ -1,7 +1,3 @@
-export const config = {
-  runtime: 'edge',
-};
-
 import { Hono } from "hono";
 import { handle } from 'hono/vercel';
 import tmdbScrape from "../src/vidsrc";
